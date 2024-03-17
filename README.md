@@ -1,5 +1,7 @@
 # React + Vite
 
+reference:- https://www.upbeatcode.com/react/how-to-implement-zoom-image-in-react/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
